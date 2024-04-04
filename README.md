@@ -44,8 +44,8 @@
 <h6 align="left"># 📊 My LeetCode Stats</h6>
 
 <!-- ![Leetcode Stats Basic](https://leetcard.jacoblin.cool/ak2449746) -->
-![Leetcode Stats with Recent Activities](https://leetcard.jacoblin.cool/ak2449746?ext=activity)
-<!-- ![Leetcode Stats with Curved Border](https://leetcard.jacoblin.cool/ak2449746?border=0&radius=20) -->
+![Leetcode Stats with Recent Activities](https://leetcard.jacoblin.cool/subendu_2911?ext=activity)
+![Leetcode Stats with Curved Border](https://leetcard.jacoblin.cool/subendu_2911?border=0&radius=20)
 
 <hr />
   
